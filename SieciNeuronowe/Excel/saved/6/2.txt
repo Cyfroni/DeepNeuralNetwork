@@ -1,0 +1,800 @@
+#0: Output
+Bias:
+0
+Gradient:
+-0.0632567
+Wartoœæ:
+-0.194797
+
+#1: Output
+Bias:
+0
+Gradient:
+0.0632567
+Wartoœæ:
+-1.9639
+
+#2: Output
+Bias:
+0
+Gradient:
+1.25527e-015
+Wartoœæ:
+-33.5148
+
+#3: Output
+Bias:
+0
+Gradient:
+9.23405e-015
+Wartoœæ:
+-31.5192
+
+#4: Output
+Bias:
+0
+Gradient:
+7.91144e-015
+Wartoœæ:
+-31.6738
+
+#5: Output
+Bias:
+0
+Gradient:
+4.2712e-015
+Wartoœæ:
+-32.2902
+
+#6: Output
+Bias:
+0
+Gradient:
+2.42341e-016
+Wartoœæ:
+-35.1595
+
+#7: Output
+Bias:
+0
+Gradient:
+4.11267e-015
+Wartoœæ:
+-32.328
+
+#8: Output
+Bias:
+0
+Gradient:
+3.98878e-015
+Wartoœæ:
+-32.3586
+
+#9: Output
+Bias:
+0
+Gradient:
+9.22384e-016
+Wartoœæ:
+-33.8229
+
+#10: Output
+Bias:
+0
+Gradient:
+2.61174e-015
+Wartoœæ:
+-32.7821
+
+#11: Output
+Bias:
+0
+Gradient:
+8.03998e-015
+Wartoœæ:
+-31.6577
+
+#12: Output
+Bias:
+0
+Gradient:
+5.25679e-015
+Wartoœæ:
+-32.0826
+
+#13: Output
+Bias:
+0
+Gradient:
+6.09409e-015
+Wartoœæ:
+-31.9348
+
+#14: Output
+Bias:
+0
+Gradient:
+2.66729e-015
+Wartoœæ:
+-32.7611
+
+#15: Output
+Bias:
+0
+Gradient:
+3.23591e-015
+Wartoœæ:
+-32.5678
+
+#16: Output
+Bias:
+0
+Gradient:
+1.56967e-014
+Wartoœæ:
+-30.9887
+
+#17: Output
+Bias:
+0
+Gradient:
+2.29658e-015
+Wartoœæ:
+-32.9107
+
+#18: Output
+Bias:
+0
+Gradient:
+2.54675e-015
+Wartoœæ:
+-32.8073
+
+#19: Output
+Bias:
+0
+Gradient:
+1.8869e-015
+Wartoœæ:
+-33.1072
+
+#20: Output
+Bias:
+0
+Gradient:
+2.4648e-015
+Wartoœæ:
+-32.84
+
+#21: Output
+Bias:
+0
+Gradient:
+6.67252e-015
+Wartoœæ:
+-31.8441
+
+#22: Output
+Bias:
+0
+Gradient:
+1.22978e-015
+Wartoœæ:
+-33.5353
+
+#23: Output
+Bias:
+0
+Gradient:
+1.766e-015
+Wartoœæ:
+-33.1734
+
+#24: Output
+Bias:
+0
+Gradient:
+2.24103e-015
+Wartoœæ:
+-32.9352
+
+#25: Output
+Bias:
+0
+Gradient:
+3.07921e-015
+Wartoœæ:
+-32.6174
+
+#26: Output
+Bias:
+0
+Gradient:
+3.28215e-015
+Wartoœæ:
+-32.5536
+
+#27: Output
+Bias:
+0
+Gradient:
+2.5435e-015
+Wartoœæ:
+-32.8086
+
+#28: Output
+Bias:
+0
+Gradient:
+1.70528e-014
+Wartoœæ:
+-30.9058
+
+#29: Output
+Bias:
+0
+Gradient:
+9.14064e-016
+Wartoœæ:
+-33.832
+
+#30: Output
+Bias:
+0
+Gradient:
+4.57601e-015
+Wartoœæ:
+-32.2213
+
+#31: Output
+Bias:
+0
+Gradient:
+9.12511e-016
+Wartoœæ:
+-33.8337
+
+#32: Output
+Bias:
+0
+Gradient:
+3.14843e-015
+Wartoœæ:
+-32.5952
+
+#33: Output
+Bias:
+0
+Gradient:
+9.80983e-016
+Wartoœæ:
+-33.7613
+
+#34: Output
+Bias:
+0
+Gradient:
+3.34867e-015
+Wartoœæ:
+-32.5336
+
+#35: Output
+Bias:
+0
+Gradient:
+7.74231e-015
+Wartoœæ:
+-31.6954
+
+#36: Output
+Bias:
+0
+Gradient:
+1.99408e-015
+Wartoœæ:
+-33.0519
+
+#37: Output
+Bias:
+0
+Gradient:
+5.00882e-015
+Wartoœæ:
+-32.1309
+
+#38: Output
+Bias:
+0
+Gradient:
+4.52991e-015
+Wartoœæ:
+-32.2314
+
+#39: Output
+Bias:
+0
+Gradient:
+4.60037e-015
+Wartoœæ:
+-32.216
+
+#40: Output
+Bias:
+0
+Gradient:
+1.14901e-015
+Wartoœæ:
+-33.6032
+
+#41: Output
+Bias:
+0
+Gradient:
+8.12738e-015
+Wartoœæ:
+-31.6469
+
+#42: Output
+Bias:
+0
+Gradient:
+1.36976e-015
+Wartoœæ:
+-33.4275
+
+#43: Output
+Bias:
+0
+Gradient:
+4.83334e-015
+Wartoœæ:
+-32.1666
+
+#44: Output
+Bias:
+0
+Gradient:
+3.88074e-015
+Wartoœæ:
+-32.3861
+
+#45: Output
+Bias:
+0
+Gradient:
+2.39253e-015
+Wartoœæ:
+-32.8698
+
+#46: Output
+Bias:
+0
+Gradient:
+2.22474e-015
+Wartoœæ:
+-32.9425
+
+#47: Output
+Bias:
+0
+Gradient:
+6.07906e-015
+Wartoœæ:
+-31.9373
+
+#48: Output
+Bias:
+0
+Gradient:
+1.06994e-015
+Wartoœæ:
+-33.6745
+
+#49: Output
+Bias:
+0
+Gradient:
+2.46858e-015
+Wartoœæ:
+-32.8385
+
+#50: Output
+Bias:
+0
+Gradient:
+4.01319e-015
+Wartoœæ:
+-32.3525
+
+#51: Output
+Bias:
+0
+Gradient:
+9.85049e-015
+Wartoœæ:
+-31.4546
+
+#52: Output
+Bias:
+0
+Gradient:
+5.8266e-015
+Wartoœæ:
+-31.9797
+
+#53: Output
+Bias:
+0
+Gradient:
+2.42377e-015
+Wartoœæ:
+-32.8568
+
+#54: Output
+Bias:
+0
+Gradient:
+3.92729e-015
+Wartoœæ:
+-32.3742
+
+#55: Output
+Bias:
+0
+Gradient:
+3.62933e-015
+Wartoœæ:
+-32.4531
+
+#56: Output
+Bias:
+0
+Gradient:
+8.89751e-015
+Wartoœæ:
+-31.5564
+
+#57: Output
+Bias:
+0
+Gradient:
+3.19642e-015
+Wartoœæ:
+-32.5801
+
+#58: Output
+Bias:
+0
+Gradient:
+1.8808e-014
+Wartoœæ:
+-30.8078
+
+#59: Output
+Bias:
+0
+Gradient:
+8.4927e-016
+Wartoœæ:
+-33.9055
+
+#60: Output
+Bias:
+0
+Gradient:
+2.17886e-015
+Wartoœæ:
+-32.9633
+
+#61: Output
+Bias:
+0
+Gradient:
+3.66808e-015
+Wartoœæ:
+-32.4425
+
+#62: Output
+Bias:
+0
+Gradient:
+3.66278e-015
+Wartoœæ:
+-32.4439
+
+#63: Output
+Bias:
+0
+Gradient:
+1.99064e-015
+Wartoœæ:
+-33.0537
+
+#64: Output
+Bias:
+0
+Gradient:
+2.10522e-015
+Wartoœæ:
+-32.9977
+
+#65: Output
+Bias:
+0
+Gradient:
+3.86627e-015
+Wartoœæ:
+-32.3898
+
+#66: Output
+Bias:
+0
+Gradient:
+4.43643e-015
+Wartoœæ:
+-32.2523
+
+#67: Output
+Bias:
+0
+Gradient:
+6.81178e-015
+Wartoœæ:
+-31.8235
+
+#68: Output
+Bias:
+0
+Gradient:
+7.11321e-015
+Wartoœæ:
+-31.7802
+
+#69: Output
+Bias:
+0
+Gradient:
+4.67262e-015
+Wartoœæ:
+-32.2004
+
+#70: Output
+Bias:
+0
+Gradient:
+2.94409e-015
+Wartoœæ:
+-32.6623
+
+#71: Output
+Bias:
+0
+Gradient:
+3.67767e-015
+Wartoœæ:
+-32.4398
+
+#72: Output
+Bias:
+0
+Gradient:
+2.87505e-015
+Wartoœæ:
+-32.6861
+
+#73: Output
+Bias:
+0
+Gradient:
+2.03003e-015
+Wartoœæ:
+-33.0341
+
+#74: Output
+Bias:
+0
+Gradient:
+1.12051e-015
+Wartoœæ:
+-33.6283
+
+#75: Output
+Bias:
+0
+Gradient:
+1.79204e-015
+Wartoœæ:
+-33.1588
+
+#76: Output
+Bias:
+0
+Gradient:
+6.73304e-015
+Wartoœæ:
+-31.8351
+
+#77: Output
+Bias:
+0
+Gradient:
+8.71371e-015
+Wartoœæ:
+-31.5772
+
+#78: Output
+Bias:
+0
+Gradient:
+6.16606e-015
+Wartoœæ:
+-31.9231
+
+#79: Output
+Bias:
+0
+Gradient:
+1.26724e-015
+Wartoœæ:
+-33.5053
+
+#80: Output
+Bias:
+0
+Gradient:
+8.75835e-015
+Wartoœæ:
+-31.5721
+
+#81: Output
+Bias:
+0
+Gradient:
+4.38899e-015
+Wartoœæ:
+-32.263
+
+#82: Output
+Bias:
+0
+Gradient:
+1.95991e-015
+Wartoœæ:
+-33.0692
+
+#83: Output
+Bias:
+0
+Gradient:
+1.20821e-015
+Wartoœæ:
+-33.553
+
+#84: Output
+Bias:
+0
+Gradient:
+1.26535e-014
+Wartoœæ:
+-31.2042
+
+#85: Output
+Bias:
+0
+Gradient:
+7.37852e-015
+Wartoœæ:
+-31.7435
+
+#86: Output
+Bias:
+0
+Gradient:
+4.08054e-015
+Wartoœæ:
+-32.3359
+
+#87: Output
+Bias:
+0
+Gradient:
+5.68047e-015
+Wartoœæ:
+-32.0051
+
+#88: Output
+Bias:
+0
+Gradient:
+4.22775e-015
+Wartoœæ:
+-32.3005
+
+#89: Output
+Bias:
+0
+Gradient:
+1.64601e-015
+Wartoœæ:
+-33.2438
+
+#90: Output
+Bias:
+0
+Gradient:
+3.59797e-015
+Wartoœæ:
+-32.4618
+
+#91: Output
+Bias:
+0
+Gradient:
+8.16002e-015
+Wartoœæ:
+-31.6429
+
+#92: Output
+Bias:
+0
+Gradient:
+1.34104e-015
+Wartoœæ:
+-33.4487
+
+#93: Output
+Bias:
+0
+Gradient:
+2.87893e-015
+Wartoœæ:
+-32.6847
+
+#94: Output
+Bias:
+0
+Gradient:
+6.87443e-016
+Wartoœæ:
+-34.1169
+
+#95: Output
+Bias:
+0
+Gradient:
+1.80776e-015
+Wartoœæ:
+-33.15
+
+#96: Output
+Bias:
+0
+Gradient:
+4.33296e-015
+Wartoœæ:
+-32.2759
+
+#97: Output
+Bias:
+0
+Gradient:
+1.45338e-015
+Wartoœæ:
+-33.3682
+
+#98: Output
+Bias:
+0
+Gradient:
+4.89887e-015
+Wartoœæ:
+-32.1531
+
+#99: Output
+Bias:
+0
+Gradient:
+1.7296e-015
+Wartoœæ:
+-33.1942
+

@@ -1,0 +1,1200 @@
+#0: Hidden
+Bias:
+0
+Gradient:
+0.000382232
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.0152288 -0.171896 
+
+#1: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.594633 0.811461 
+
+#2: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.0881122 -0.0490304 
+
+#3: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.503974 0.346955 
+
+#4: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.322729 -0.302921 
+
+#5: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.293011 0.339529 
+
+#6: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.410933 -1.16274 
+
+#7: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.0197417 0.226821 
+
+#8: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.349327 0.125619 
+
+#9: Hidden
+Bias:
+0
+Gradient:
+2.52335e-012
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.0935204 0.10051 
+
+#10: Hidden
+Bias:
+0
+Gradient:
+1.42888e-010
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.172194 0.223528 
+
+#11: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.255507 0.311132 
+
+#12: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.887913 -0.876114 
+
+#13: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.184637 0.196005 
+
+#14: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.0547322 -0.00423452 
+
+#15: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.153974 0.148927 
+
+#16: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.318717 0.0506897 
+
+#17: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.037357 0.250116 
+
+#18: Hidden
+Bias:
+0
+Gradient:
+-3.43867e-010
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.349802 -0.602513 
+
+#19: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.239589 0.265013 
+
+#20: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.0307033 -0.0412594 
+
+#21: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-1.16947 1.19126 
+
+#22: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.0547625 0.167104 
+
+#23: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.0476037 0.0669792 
+
+#24: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.113076 -0.0697311 
+
+#25: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.0705468 -0.123053 
+
+#26: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.206336 0.258092 
+
+#27: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.158718 -0.00317373 
+
+#28: Hidden
+Bias:
+0
+Gradient:
+4.70396e-013
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.0937534 -0.0924688 
+
+#29: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.11838 -0.118374 
+
+#30: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.225201 0.510657 
+
+#31: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.8536 -0.811865 
+
+#32: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.509893 -0.464723 
+
+#33: Hidden
+Bias:
+0
+Gradient:
+4.61826e-011
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.150201 -0.0223033 
+
+#34: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+1.05309
+Iloœæ Wag:
+2
+Wagi:
+-0.201341 0.29107 
+
+#35: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.376765 0.0146034 
+
+#36: Hidden
+Bias:
+0
+Gradient:
+8.89574e-005
+Wartoœæ:
+39.7378
+Iloœæ Wag:
+2
+Wagi:
+0.123127 0.0866618 
+
+#37: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.00968713 0.0221239 
+
+#38: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.289475 0.336368 
+
+#39: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.0351381 -0.00715473 
+
+#40: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.240371 0.328822 
+
+#41: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.773797 -0.450267 
+
+#42: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.135846 0.102503 
+
+#43: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.575947 0.59174 
+
+#44: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.321757 0.758296 
+
+#45: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.103903 0.147498 
+
+#46: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.0147024 -0.261793 
+
+#47: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.227771 0.50601 
+
+#48: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.0118231 0.00605622 
+
+#49: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.104723 0.158785 
+
+#50: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.114289 0.170963 
+
+#51: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+12.8708
+Iloœæ Wag:
+2
+Wagi:
+0.154191 0.088811 
+
+#52: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.479545 0.489882 
+
+#53: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.0460506 0.0424611 
+
+#54: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.283571 -0.317691 
+
+#55: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.0935316 0.00387092 
+
+#56: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.0132871 -0.203558 
+
+#57: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.112663 -0.140888 
+
+#58: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.00279326 -0.0268622 
+
+#59: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.00109157 0.0153343 
+
+#60: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.0837661 -0.0743353 
+
+#61: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.169738 0.303155 
+
+#62: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.207824 0.279337 
+
+#63: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.326755 0.164537 
+
+#64: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.0867744 0.107364 
+
+#65: Hidden
+Bias:
+0
+Gradient:
+0.00536111
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.108412 0.127167 
+
+#66: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.432406 0.402338 
+
+#67: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.267759 0.202353 
+
+#68: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.337494 -0.265552 
+
+#69: Hidden
+Bias:
+0
+Gradient:
+-2.32072e-005
+Wartoœæ:
+506.952
+Iloœæ Wag:
+2
+Wagi:
+-0.105708 -0.0961998 
+
+#70: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.0439955 -0.0390969 
+
+#71: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.158833 0.0517768 
+
+#72: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+1.46024
+Iloœæ Wag:
+2
+Wagi:
+-0.21202 0.527132 
+
+#73: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.87848 -0.738678 
+
+#74: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.0492116 0.079982 
+
+#75: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.483244 0.361065 
+
+#76: Hidden
+Bias:
+0
+Gradient:
+-0.00288333
+Wartoœæ:
+66.0412
+Iloœæ Wag:
+2
+Wagi:
+-0.0552101 -0.0584294 
+
+#77: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.646159 0.689858 
+
+#78: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.00470824 -0.0565897 
+
+#79: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.120253 0.0580899 
+
+#80: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.358254 0.679117 
+
+#81: Hidden
+Bias:
+0
+Gradient:
+-1.48515e-012
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.118514 -0.122628 
+
+#82: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.147859 -0.170852 
+
+#83: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.0360021 0.0512966 
+
+#84: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.0640093 0.06005 
+
+#85: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.0994467 -0.196118 
+
+#86: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.00134224 0.0213862 
+
+#87: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.234961 0.431267 
+
+#88: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+50.5531
+Iloœæ Wag:
+2
+Wagi:
+0.188196 0.131665 
+
+#89: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.00500641 0.221306 
+
+#90: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.00226728 -0.0244821 
+
+#91: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.307135 -0.204983 
+
+#92: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.681341 -0.794575 
+
+#93: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.784157 0.929208 
+
+#94: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.0775181 0.146892 
+
+#95: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.281059 0.308616 
+
+#96: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.481179 0.0313592 
+
+#97: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+0.210408 -0.416519 
+
+#98: Hidden
+Bias:
+0
+Gradient:
+-0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.461178 -0.00436657 
+
+#99: Hidden
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+2
+Wagi:
+-0.628278 0.749495 
+

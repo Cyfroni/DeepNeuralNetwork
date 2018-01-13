@@ -1,0 +1,16 @@
+#0: Output
+Bias:
+0
+Gradient:
+-0.318679
+Wartoœæ:
+-2.29577
+
+#1: Output
+Bias:
+0
+Gradient:
+0.318679
+Wartoœæ:
+-1.28185
+

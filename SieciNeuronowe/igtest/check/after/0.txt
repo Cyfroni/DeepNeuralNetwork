@@ -1,0 +1,40 @@
+#0: Input
+Gradient:
+30
+Wartoœæ:
+1
+Iloœæ Wag:
+3
+Wagi:
+0.9995 1.999 2.9885 
+
+#1: Input
+Gradient:
+-30
+Wartoœæ:
+2
+Iloœæ Wag:
+3
+Wagi:
+-0.9995 1.999 -3.0185 
+
+#2: Input
+Gradient:
+10
+Wartoœæ:
+3
+Iloœæ Wag:
+3
+Wagi:
+1.3993 2.1989 0.9695 
+
+#3: Input
+Gradient:
+2
+Wartoœæ:
+4
+Iloœæ Wag:
+3
+Wagi:
+-0.9995 -3.998 0.1599 
+

@@ -1,0 +1,4 @@
+Ilosc warstw:
+4
+Licznosci warstw:
+4 3 2 3 

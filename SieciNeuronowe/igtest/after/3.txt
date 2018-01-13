@@ -1,0 +1,24 @@
+#0: Output
+Bias:
+0
+Gradient:
+-1
+Wartoœæ:
+-1.5
+
+#1: Output
+Bias:
+0
+Gradient:
+0
+Wartoœæ:
+-3.3
+
+#2: Output
+Bias:
+0
+Gradient:
+1
+Wartoœæ:
+1.5
+

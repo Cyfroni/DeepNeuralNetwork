@@ -1,0 +1,24 @@
+#0: Hidden
+Bias:
+-0.002
+Gradient:
+2
+Wartoœæ:
+1.5
+Iloœæ Wag:
+3
+Wagi:
+-0.998 -2.1989 0.998 
+
+#1: Hidden
+Bias:
+-2
+Gradient:
+0
+Wartoœæ:
+0
+Iloœæ Wag:
+3
+Wagi:
+-0.009995 0.89955 0 
+
